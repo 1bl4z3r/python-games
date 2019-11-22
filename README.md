@@ -11,5 +11,5 @@ Also, no clue
 
 | Games | What libraries are used |
 |---|---|
-| Pong | Python Turtle Library |
+| [Pong](https://github.com/1bl4z3r/python-games/tree/master/pong) | Python Turtle Library |
 |  |  |
