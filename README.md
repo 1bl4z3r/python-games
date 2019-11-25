@@ -17,4 +17,7 @@ Also, no clue
 | Games | What libraries are used |
 |---|---|
 | [Pong](https://github.com/1bl4z3r/python-games/tree/master/pong) | Turtle |
-| [Snake](https://github.com/1bl4z3r/python-games/tree/master/snake) | Pygame, Tkinter |
+| [Snake](https://github.com/1bl4z3r/python-games/tree/master/snake) | Pygame*, Tkinter |
+
+
+** *pip install pygame
