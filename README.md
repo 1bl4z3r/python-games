@@ -1,6 +1,11 @@
 # python-games
 Games made with python, because I was hella bored, and also an opportunity to learn something new
 
+```python
+if status == "bored":
+  print("Let's play")
+```
+
 ## Why did you made this?
 No clue
 
