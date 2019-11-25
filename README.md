@@ -20,4 +20,4 @@ Also, no clue
 | [Snake](https://github.com/1bl4z3r/python-games/tree/master/snake) | Pygame*, Tkinter |
 
 
-** *pip install pygame
+****pip install pygame***
